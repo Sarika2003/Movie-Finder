@@ -4,8 +4,6 @@ Movie Finder is a React-based web app that uses Appwrite and TMDB API to search 
 
 ![Screenshot 2025-02-27 142424](https://github.com/user-attachments/assets/a0c55537-8543-435a-a316-6b91ae36d7ac)
 
-![Screenshot 2025-02-27 142451](https://github.com/user-attachments/assets/b1e9a135-0699-4fee-bc5d-a70190253593)
-
 
 
 ## Features ✨
