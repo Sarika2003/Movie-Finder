@@ -2,6 +2,12 @@
 
 Movie Finder is a React-based web app that uses Appwrite and TMDB API to search and display trending movies. Users can search for any movie by name, and the system tracks the search count. The most searched movies appear in the "Trending Movies" section.
 
+![Screenshot 2025-02-27 142424](https://github.com/user-attachments/assets/a0c55537-8543-435a-a316-6b91ae36d7ac)
+
+![Screenshot 2025-02-27 142451](https://github.com/user-attachments/assets/b1e9a135-0699-4fee-bc5d-a70190253593)
+
+
+
 ## Features ✨
 
  - Search Movies: Fetch movies from the TMDB API.
@@ -25,7 +31,7 @@ Movie Finder is a React-based web app that uses Appwrite and TMDB API to search 
 1. Clone the Repository:
 
    ```bash
-    git clone https://github.com/Sarika2003/movie-finder.git
+    git clone https://github.com/Sarika2003/Movie-Finder.git
     cd movie-finder
     ```
 
