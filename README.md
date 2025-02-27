@@ -8,7 +8,7 @@ Movie Finder is a React-based web app that uses Appwrite and TMDB API to search 
 
  - Trending Movies: Track the most searched movies in the Appwrite database.
 
- -Appwrite Integration: Store and update search counts in the database.
+ - Appwrite Integration: Store and update search counts in the database.
 
  - Responsive UI: A modern and fast frontend built with Tailwind CSS.
 
@@ -31,25 +31,23 @@ Movie Finder is a React-based web app that uses Appwrite and TMDB API to search 
 
 2. Install Dependencies:
 
-  ```bash
-npm install
-```
+   ```bash
+   npm install
+   ```
 
 3. Setup Environment Variables:
-
-Create a .env file and add the following variables:
-
- ```bash
-VITE_APPWRITE_URL=your_appwrite_url
-VITE_APPWRITE_PROJECT_ID=your_project_id
-VITE_APPWRITE_DATABASE_ID=your_database_id
-VITE_APPWRITE_COLLECTION_ID=your_collection_id
-VITE_TMDB_API_KEY=your_tmdb_api_key
- ```
+   
+   ```bash
+   VITE_APPWRITE_URL=your_appwrite_url
+   VITE_APPWRITE_PROJECT_ID=your_project_id
+   VITE_APPWRITE_DATABASE_ID=your_database_id
+   VITE_APPWRITE_COLLECTION_ID=your_collection_id
+   VITE_TMDB_API_KEY=your_tmdb_api_key
+   ```
 
 4. Run the Project:
 
- ```bash
-npm run dev
- ```
+   ```bash
+   npm run dev
+   ```
 
